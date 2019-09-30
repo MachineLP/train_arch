@@ -11,14 +11,14 @@ MachineLP：
 
 
 
-- ### 01 - [programming_language](./01-programming_language/)
+- ### 01 - [programming_language](./01-programming_language/) 
 
-- ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/)
+- ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/) 
 
-- ### 03 - [deeplearning_examples](./03-deeplearning_examples/)
+- ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
 
-- ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/)
+- ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
 
-- ### 05 - [auto_ml_dl](./05-auto_ml_dl/)
+- ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 
-- ### 06 - [auto_ml_dl](./06-model_server/)
+- ### 06 - [auto_ml_dl](./06-model_server/) 
