@@ -17,13 +17,22 @@ MachineLP：
 - -  #### 03 - [c++](./01-programming_language/03-c++/) 
 
 - ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/) 
+- - #### 01 - [Sword_Offer](./02-data_structure_and_algorithm/01-Sword_Offer/) 
+- - #### 02 - [leetCode](./02-data_structure_and_algorithm/02-leetCode/) 
+- - #### 03 - [03-](./02-data_structure_and_algorithm/03-/) 
 
 - ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
+- - #### 01 - [tensorflow1.0+](./03-deeplearning_examples/01-tensorflow1.0+/) 
+- - #### 02 - [tensorflow2.0](./03-deeplearning_examples/02-tensorflow2.0/) 
 
 - ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
+- - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
+- - #### 01 - [sparkml_examples](./04-machinelearning_exmaples/02-sparkml_examples/) 
 
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
+- - #### 01 - [auto_ml](./05-auto_ml_dl/01-auto_ml/) 
+- - #### 02 - [auto_dl](./05-auto_ml_dl/02-auto_dl/) 
 
 - ### 06 - [model_server](./06-model_server/) 
 
-- ### 07 - [sql](./sql/) 
+- ### 07 - [sql](./07-sql/) 
