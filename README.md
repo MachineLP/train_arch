@@ -12,6 +12,9 @@ MachineLP：
 
 
 - ### 01 - [programming_language](./01-programming_language/) 
+- -  #### 01 - [python](./01-programming_language/01-python/) 
+- -  #### 02 - [scala](./01-programming_language/02-scala/) 
+- -  #### 03 - [c++](./01-programming_language/03-c++/) 
 
 - ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/) 
 
@@ -22,3 +25,5 @@ MachineLP：
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 
 - ### 06 - [model_server](./06-model_server/) 
+
+- ### 07 - [sql](./sql/) 
