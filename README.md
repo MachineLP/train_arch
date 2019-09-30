@@ -22,8 +22,7 @@ MachineLP：
 - - #### 03 - [03-](./02-data_structure_and_algorithm/03-/) 
 
 - ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
-- - #### 01 - [tensorflow1.0+](./03-deeplearning_examples/01-tensorflow1.0+/) 
-- - #### 02 - [tensorflow2.0](./03-deeplearning_examples/02-tensorflow2.0/) 
+- - #### 01 - [tensorflow_examples](./03-deeplearning_examples/01-tensorflow_examples/) 
 
 - ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
 - - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
