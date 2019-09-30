@@ -21,4 +21,4 @@ MachineLP：
 
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 
-- ### 06 - [auto_ml_dl](./06-model_server/) 
+- ### 06 - [model_server](./06-model_server/) 
