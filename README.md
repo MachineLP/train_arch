@@ -23,6 +23,15 @@ MachineLP：
 
 - ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
 - - #### 01 - [tensorflow_examples](./03-deeplearning_examples/01-tensorflow_examples/) 
+- - - ##### 01 - [tensorflow1.0+](./03-deeplearning_examples/01-tensorflow_examples/01-tensorflow1.0+/) 
+- - - ##### 02 - [tensorflow2.0](./03-deeplearning_examples/01-tensorflow_examples/02-tensorflow2.0/) 
+- - - ##### 03 - [recommendation](./03-deeplearning_examples/01-tensorflow_examples/03-recommendation/) 
+- - - ##### 04 - [CV](./03-deeplearning_examples/01-tensorflow_examples/04-CV/) 
+- - - ##### 05 - [NLP](./03-deeplearning_examples/01-tensorflow_examples/05-NLP/) 
+- - - ##### 06 - [GAN](./03-deeplearning_examples/01-tensorflow_examples/06-GAN/) 
+- - - ##### 07 - [RL](./03-deeplearning_examples/01-tensorflow_examples/07-RL/) 
+- - #### 02 - [keras_examples](./03-deeplearning_examples/02-keras_examples/) 
+- - #### 03 - [pytorch_examples](./03-deeplearning_examples/03-pytorch_examples/) 
 
 - ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
 - - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
