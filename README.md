@@ -35,3 +35,15 @@ MachineLP：
 - ### 06 - [model_server](./06-model_server/) 
 
 - ### 07 - [sql](./07-sql/) 
+
+
+#### 参考：
+```
+(1) https://github.com/tensorflow/tensorflow
+(2) https://github.com/mlflow/mlflow
+(3) https://github.com/MachineLP/Tensorflow-
+(4) https://github.com/MachineLP/py_workSpace/tree/master/leetCode
+(5) https://github.com/drabastomek/learningPySpark
+(6) https://github.com/jackfrued/Python-100-Days
+(7) https://github.com/princewen/tensorflow_practice
+```
