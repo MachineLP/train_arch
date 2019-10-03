@@ -2,7 +2,7 @@
 - - #### - [Apriori](./Apriori/) 
 > 分析某导演的电影的 频繁项集和关联规则
 
-- - #### - [EM_data](./EM_data/) 
+- - #### - [bitcoin](./bitcoin/) 
 > 比特币走势预测，使用时间序列ARMA
 
 - - #### - [PageRank](./PageRank/) 
