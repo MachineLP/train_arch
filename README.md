@@ -43,6 +43,9 @@ MachineLP：
 - - #### 02 - [auto_dl](./05-auto_ml_dl/02-auto_dl/) 
 
 - ### 06 - [model_server](./06-model_server/) 
+- - #### 01 - [py_backend](./06-model_server/py_backend/) 
+- - #### 02 - [c++_backend](./06-model_server/c++_backend/) 
+- - #### 03 - [java_backend](./06-model_server/java_backend/) 
 
 - ### 07 - [sql](./07-sql/) 
 
