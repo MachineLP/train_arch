@@ -36,6 +36,7 @@ MachineLP：
 - ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
 - - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
 - - #### 02 - [sparkml_examples](./04-machinelearning_exmaples/02-sparkml_examples/) 
+- - #### 03 - [feature_engineering_examples](./04-machinelearning_exmaples/03-feature_engineering/) 
 
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 - - #### 01 - [auto_ml](./05-auto_ml_dl/01-auto_ml/) 
