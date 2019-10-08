@@ -12,7 +12,6 @@ jupyter notebook --allow-root
 
 ```
 
-https://github.com/endymecy/spark-ml-source-analysis
 
 http://blog.pluskid.org/?p=39
 
