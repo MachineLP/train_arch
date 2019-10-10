@@ -16,10 +16,14 @@ MachineLP：
 - -  #### 02 - [scala](./01-programming_language/02-scala/) 
 - -  #### 03 - [c++](./01-programming_language/03-c++/) 
 
+> 该部分包含基础的语法和代码，可以快读上手，并且可根据自己的需求自行查看需要了解的基础知识。
+
 - ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/) 
 - - #### 01 - [Sword_Offer](./02-data_structure_and_algorithm/01-Sword_Offer/) 
 - - #### 02 - [leetCode](./02-data_structure_and_algorithm/02-leetCode/) 
 - - #### 03 - [03-](./02-data_structure_and_algorithm/03-/) 
+
+> 随着自己的知识边界越来越...，越会发现数据结构和算法的重要性，很多框架底层都是使用像数组、链表等数据结构，后续的各种数据结构和算法也是由此构建而来。（通过查看很多框架源码也会发现这个问题）
 
 - ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
 - - #### 01 - [tensorflow_examples](./03-deeplearning_examples/01-tensorflow_examples/) 
@@ -33,22 +37,31 @@ MachineLP：
 - - #### 02 - [keras_examples](./03-deeplearning_examples/02-keras_examples/) 
 - - #### 03 - [pytorch_examples](./03-deeplearning_examples/03-pytorch_examples/) 
 
+> 作为近两年热点的深度学习当然也是重点的内容之一，本部分会从tensorflow、keras、pytorch框架的使用进行介绍，主要涉及推荐、计算机视觉、自然语言处理、GAN、RL几个方面。
+
 - ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
 - - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
 - - #### 02 - [sparkml_examples](./04-machinelearning_exmaples/02-sparkml_examples/) 
 - - #### 03 - [feature_engineering_examples](./04-machinelearning_exmaples/03-feature_engineering/) 
 
+> 作为长久不衰的机器学习，由于其可结实性强、硬件要求不算高、高效的特点，在各行各业依然起的非常重要的作用。
+
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 - - #### 01 - [auto_ml](./05-auto_ml_dl/01-auto_ml/) 
 - - #### 02 - [auto_dl](./05-auto_ml_dl/02-auto_dl/) 
+
+> AutoML/DL作为近期的热点，各厂都有呈现自己的paper、框架，都在想从这个热潮中脱颖而出。该部分直接影响到算法工程师今后的工作方向，值得关注。
 
 - ### 06 - [model_server](./06-model_server/) 
 - - #### 01 - [py_backend](./06-model_server/py_backend/) 
 - - #### 02 - [c++_backend](./06-model_server/c++_backend/) 
 - - #### 03 - [java_backend](./06-model_server/java_backend/) 
 
+> 模型服务模块可以说是必不可少的一个环境，当训练好的模块要使用的时候，可以通过服务端、sdk等方式，本部分会介绍通过服务的方式让模块跑起来。
+
 - ### 07 - [sql](./07-sql/) 
 
+> 作为和数据打交道的工程师，sql是必备技能之一，直接影响到你取数的成败、效率、资源占用，也要做好也是要下一份苦功夫。
 
 - 
 
