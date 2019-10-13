@@ -18,10 +18,10 @@ MachineLP：
 
 > 该部分包含基础的语法和代码，可以快读上手，并且可根据自己的需求自行查看需要了解的基础知识。
 
-- ### 02 - [data_structure_and_algorithm](./02-data_structure_and_algorithm/) 
-- - #### 01 - [Sword_Offer](./02-data_structure_and_algorithm/01-Sword_Offer/) 
-- - #### 02 - [leetCode](./02-data_structure_and_algorithm/02-leetCode/) 
-- - #### 03 - [03-](./02-data_structure_and_algorithm/03-/) 
+- ### 02 - [data_structure](./02-data_structure/) 
+- - #### 01 - [Sword_Offer](./02-data_structure/01-Sword_Offer/) 
+- - #### 02 - [leetCode](./02-data_structure/02-leetCode/) 
+- - #### 03 - [03-](./02-data_structure/03-/) 
 
 > 随着自己的知识边界越来越...，越会发现数据结构和算法的重要性，很多框架底层都是使用像数组、链表等数据结构，后续的各种数据结构和算法也是由此构建而来。（通过查看很多框架源码也会发现这个问题）
 
