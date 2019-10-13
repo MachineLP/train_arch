@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 from pandas.core.frame import DataFrame
 import numpy as np
@@ -84,13 +82,13 @@ print(column_headers)
 # x_columns = [x for x in train_data.columns if x not in ["target", "id"]]
 # x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_0', 'x_1', 'x_2', 'x_4', 'x_6', 'x_7', 'x_8', 'x_10', 'x_11', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_21', 'x_22', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_38', 'x_39', 'x_41', 'x_42', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_48', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55', 'x_56', 'x_57', 'x_59','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'certBalidStop', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan', '5yearBadloan']
 # RF: n_estimators=90, max_depth=4  # AUC Score (Train): 0.681259 
-# x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_1', 'x_2', 'x_4', 'x_6', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_21', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_39', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55', 'x_57','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'certBalidStop', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan', '5yearBadloan']
+# x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_1', 'x_2', 'x_4', 'x_6', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_21', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_39', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55', 'x_57','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan', '5yearBadloan']
 # RF: n_estimators=90, max_depth=4  # AUC Score (Train): 0.677848 
-# x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_1', 'x_2', 'x_6', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_39', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'certBalidStop', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan']
+x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_1', 'x_2', 'x_6', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_39', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan']
 # RF: n_estimators=90, max_depth=4  # AUC Score (Train): 0.690318
-# x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_2', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'certBalidStop', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan']
+# x_columns = ['certId', 'loanProduct', 'gender', 'age', 'dist', 'job', 'lmt', 'basicLevel', 'x_2', 'x_8', 'x_12', 'x_14', 'x_16', 'x_17', 'x_20', 'x_23', 'x_25', 'x_26', 'x_27', 'x_28', 'x_29', 'x_30', 'x_33', 'x_34', 'x_35', 'x_41', 'x_43', 'x_44', 'x_45', 'x_46', 'x_47', 'x_49', 'x_50', 'x_51', 'x_52', 'x_53', 'x_54', 'x_55','x_61', 'x_62', 'x_63', 'x_64', 'x_65', 'x_66', 'x_67', 'x_68', 'x_70', 'x_71', 'x_72', 'x_73', 'x_74', 'x_75', 'x_76', 'certValidBegin', 'bankCard', 'ethnic', 'residentAddr', 'highestEdu', 'linkRela', 'setupHour', 'weekday', 'ncloseCreditCard', 'unpayIndvLoan', 'unpayOtherLoan', 'unpayNormalLoan']
 
-X = train_data[x_columns]
+X = train_data[x_columns] 
 y = train_data["target"] 
 
 
@@ -117,7 +115,7 @@ y = train_data["target"]
 
 X_predict = df_predict[x_columns]
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.3, random_state=0)
 
 
 # gbdt = GradientBoostingClassifier(n_estimators=20, random_state=10) 
@@ -128,6 +126,18 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=.2, random_s
 
 # gbdt = LogisticRegression() 
 
+'''
+param_dict = {'max_depth':[2,4,6], 'n_estimators':[50, 100, 200]}
+ 
+rgs = GridSearchCV(gbdt, param_dict)
+ 
+rgs.fit(X_boston, y_boston)
+ 
+print(rgs.best_score_)
+ 
+print(rgs.best_params_)
+
+'''
 # gbdt = RandomForestClassifier() 
 gbdt = RandomForestClassifier(n_estimators=90, max_depth=4,random_state=10) 
 # n_estimators=100  # AUC Score (Train): 0.632956
@@ -175,4 +185,4 @@ d ={ "id" : id_list, "target" : y_pp  }
 res = DataFrame(d)#将字典转换成为数据框
 print (">>>>", res)
 
-res.to_csv("res.csv")
+res.to_csv("res/res_rf.csv")
