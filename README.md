@@ -25,24 +25,24 @@ MachineLP：
 
 > 随着自己的知识边界越来越...，越会发现数据结构和算法的重要性，很多框架底层都是使用像数组、链表等数据结构，后续的各种数据结构和算法也是由此构建而来。（通过查看很多框架源码也会发现这个问题）
 
-- ### 03 - [deeplearning_examples](./03-deeplearning_examples/) 
-- - #### 01 - [tensorflow_examples](./03-deeplearning_examples/01-tensorflow_examples/) 
-- - - ##### 01 - [tensorflow1.0+](./03-deeplearning_examples/01-tensorflow_examples/01-tensorflow1.0+/) 
-- - - ##### 02 - [tensorflow2.0](./03-deeplearning_examples/01-tensorflow_examples/02-tensorflow2.0/) 
-- - - ##### 03 - [recommendation](./03-deeplearning_examples/01-tensorflow_examples/03-recommendation/) 
-- - - ##### 04 - [CV](./03-deeplearning_examples/01-tensorflow_examples/04-CV/) 
-- - - ##### 05 - [NLP](./03-deeplearning_examples/01-tensorflow_examples/05-NLP/) 
-- - - ##### 06 - [GAN](./03-deeplearning_examples/01-tensorflow_examples/06-GAN/) 
-- - - ##### 07 - [RL](./03-deeplearning_examples/01-tensorflow_examples/07-RL/) 
-- - #### 02 - [keras_examples](./03-deeplearning_examples/02-keras_examples/) 
-- - #### 03 - [pytorch_examples](./03-deeplearning_examples/03-pytorch_examples/) 
+- ### 03 - [deep_learning](./03-deep_learning/) 
+- - #### 01 - [tensorflow_examples](./03-deep_learning/01-tensorflow_examples/) 
+- - - ##### 01 - [tensorflow1.0+](./03-deep_learning/01-tensorflow_examples/01-tensorflow1.0+/) 
+- - - ##### 02 - [tensorflow2.0](./03-deep_learning/01-tensorflow_examples/02-tensorflow2.0/) 
+- - - ##### 03 - [recommendation](./03-deep_learning/01-tensorflow_examples/03-recommendation/) 
+- - - ##### 04 - [CV](./03-deep_learning/01-tensorflow_examples/04-CV/) 
+- - - ##### 05 - [NLP](./03-deep_learning/01-tensorflow_examples/05-NLP/) 
+- - - ##### 06 - [GAN](./03-deep_learning/01-tensorflow_examples/06-GAN/) 
+- - - ##### 07 - [RL](./03-deep_learning/01-tensorflow_examples/07-RL/) 
+- - #### 02 - [keras_examples](./03-deep_learning/02-keras_examples/) 
+- - #### 03 - [pytorch_examples](./03-deep_learning/03-pytorch_examples/) 
 
 > 作为近两年热点的深度学习当然也是重点的内容之一，本部分会从tensorflow、keras、pytorch框架的使用进行介绍，主要涉及推荐、计算机视觉、自然语言处理、GAN、RL几个方面。
 
-- ### 04 - [machinelearning_exmaples](./04-machinelearning_exmaples/) 
-- - #### 01 - [sklearn_examples](./04-machinelearning_exmaples/01-sklearn_examples/) 
-- - #### 02 - [sparkml_examples](./04-machinelearning_exmaples/02-sparkml_examples/) 
-- - #### 03 - [feature_engineering_examples](./04-machinelearning_exmaples/03-feature_engineering/) 
+- ### 04 - [machine_learning](./04-machine_learning/) 
+- - #### 01 - [sklearn_examples](./04-machine_learning/01-sklearn_examples/) 
+- - #### 02 - [sparkml_examples](./04-machine_learning/02-sparkml_examples/) 
+- - #### 03 - [feature_engineering_examples](./04-machine_learning/03-feature_engineering/) 
 
 > 作为长久不衰的机器学习，由于其可结实性强、硬件要求不算高、高效的特点，在各行各业依然起的非常重要的作用。
 
