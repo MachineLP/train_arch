@@ -263,8 +263,3 @@ res.to_csv( csv_file )
 
 
 
-'''
-评分卡系列（二）：特征工程: https://www.cnblogs.com/gasongjian/p/8159501.html
-
-'''
-
