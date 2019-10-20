@@ -151,15 +151,7 @@ if __name__ == '__main__':
         print (">>>>", res)
         csv_file = 'stacking_res/res_stacking.csv'
         res.to_csv( csv_file ) 
-        '''
-        ans = pd.read_csv('../AI_risk_test_V3.0/test_list.csv',parse_dates = ['appl_sbm_tm'])
-        ans['PROB'] = predict_result
-        ans = ans.drop(['appl_sbm_tm'],axis=1)
-        minmin, maxmax = min(ans['PROB']),max(ans['PROB'])
-        ans['PROB'] = ans['PROB'].map(lambda x:(x-minmin)/(maxmax-minmin))
-        ans['PROB'] = ans['PROB'].map(lambda x:'%.4f' % x)
-        ans.to_csv('stacking_res/ans_stacking.csv',index=None)
-        '''
+
 
 
 
