@@ -8,4 +8,7 @@
 - - #### 前海征信大数据算法
 > https://github.com/yzkang/QH_FInSight
 
+- - #### xiaoluoyfy-data_minning
+> https://github.com/xiaoluoyfy/data_minning
+
 
