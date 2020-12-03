@@ -52,10 +52,10 @@ MachineLP：
 
 > AutoML/DL作为近期的热点，各厂都有呈现自己的paper、框架，都在想从这个热潮中脱颖而出。该部分直接影响到算法工程师今后的工作方向，值得关注。
 
-- ### 06 - [model_deploying](./06-model_server/) 
-- - #### 01 - [py_backend](./06-model_server/py_backend/) 
-- - #### 02 - [c++_backend](./06-model_server/c++_backend/) 
-- - #### 03 - [java_backend](./06-model_server/java_backend/) 
+- ### 06 - [model_deploying](./06-model_deploying/) 
+- - #### 01 - [py_backend](./06-model_deploying/py_backend/) 
+- - #### 02 - [c++_backend](./06-model_deploying/c++_backend/) 
+- - #### 03 - [java_backend](./06-model_deploying/java_backend/) 
 
 > 模型服务模块可以说是必不可少的一个环境，当训练好的模块要使用的时候，可以通过服务端、sdk等方式，本部分会介绍通过服务的方式让模块跑起来。
 
