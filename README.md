@@ -44,7 +44,7 @@ MachineLP：
 - - #### 02 - [sparkml_examples](./04-machine_learning/02-sparkml_examples/) 
 - - #### 03 - [feature_engineering_examples](./04-machine_learning/03-feature_engineering/) 
 
-> 作为长久不衰的机器学习，由于其可结实性强、硬件要求不算高、高效的特点，在各行各业依然起的非常重要的作用。
+> 作为长久不衰的机器学习，由于其可解释性强、硬件要求不算高、高效的特点，在各行各业依然起的非常重要的作用。
 
 - ### 05 - [auto_ml_dl](./05-auto_ml_dl/) 
 - - #### 01 - [auto_ml](./05-auto_ml_dl/01-auto_ml/) 
